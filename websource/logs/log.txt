@@ -1,0 +1,23 @@
+2024-08-10 17:58:48	4136832448	1	[INFO]	[SERVER]	main.cpp:149	Server started ! port:8888 path:./websource
+2024-08-10 17:58:51	4136832448	1	[INFO]	[SERVER]	epoll.cpp:118	New connection from IP:0 PORT:0
+2024-08-10 17:58:51	4133660416	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: index.html
+2024-08-10 17:58:51	4133660416	1	[INFO]	[SERVER]	requestData.cpp:586	Response sent: index.html
+2024-08-10 18:03:53	4019289536	1	[INFO]	[SERVER]	main.cpp:149	Server started ! port:9999 path:./websource
+2024-08-10 18:04:05	4019289536	1	[INFO]	[SERVER]	epoll.cpp:118	New connection from IP:0 PORT:0
+2024-08-10 18:04:05	4016117504	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: index.html
+2024-08-10 18:04:05	4016117504	1	[INFO]	[SERVER]	requestData.cpp:586	Response sent: index.html
+2024-08-10 18:04:05	4007724800	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: favicon.ico
+2024-08-10 18:04:19	4019289536	1	[INFO]	[SERVER]	epoll.cpp:118	New connection from IP:0 PORT:0
+2024-08-10 18:04:28	4019289536	1	[INFO]	[SERVER]	epoll.cpp:118	New connection from IP:0 PORT:0
+2024-08-10 18:04:28	3999332096	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: fig1.png
+2024-08-10 18:04:28	3999332096	1	[INFO]	[SERVER]	requestData.cpp:586	Response sent: fig1.png
+2024-08-10 18:05:35	120032704	1	[INFO]	[SERVER]	main.cpp:149	Server started ! port:8888 path:./websource
+2024-08-10 18:05:41	120032704	1	[INFO]	[SERVER]	epoll.cpp:118	New connection from IP:0 PORT:0
+2024-08-10 18:05:41	116860672	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: index.html
+2024-08-10 18:05:41	116860672	1	[INFO]	[SERVER]	requestData.cpp:586	Response sent: index.html
+2024-08-10 18:05:41	108467968	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: favicon.ico
+2024-08-10 18:05:53	120032704	1	[INFO]	[SERVER]	epoll.cpp:118	New connection from IP:0 PORT:0
+2024-08-10 18:05:53	91682560	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: index.html
+2024-08-10 18:05:53	91682560	1	[INFO]	[SERVER]	requestData.cpp:586	Response sent: index.html
+2024-08-10 18:06:01	100075264	1	[INFO]	[SERVER]	requestData.cpp:348	Processing request: fig2.jpg
+2024-08-10 18:06:01	100075264	1	[INFO]	[SERVER]	requestData.cpp:586	Response sent: fig2.jpg
